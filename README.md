@@ -1,4 +1,4 @@
-# auto-image-rename
+# Automatic Image Renamer (Julia)
 <b>This repository relies on non-free services hosted by Microsoft Corporation. Use at your own risk.</b>
 Basic script to bulk rename images using the Microsoft Computer Vision API captioning model, transpiled into Julia from the [sanjujosh/auto-image-renamer](https://github.com/sanjujosh/auto-image-renamer/) project that was based on [/ParhamP/altify](https://github.com/ParhamP/altify). 
 

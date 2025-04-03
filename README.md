@@ -11,7 +11,9 @@ Sign up [here](https://azure.microsoft.com/en-gb/products/cognitive-services/com
 In renamer.jl, add your API Key and endpoint.
 
 ### Run script
-```julia renamer.jl path_to_images_dir```
+```
+julia renamer.jl path_to_images_dir
+```
 
 ...see, I can write concise and usable instructions when I copy from somebody else.
 

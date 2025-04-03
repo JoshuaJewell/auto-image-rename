@@ -4,13 +4,13 @@ Basic script to bulk rename images using the Microsoft Computer Vision API capti
 
 ## Usage
 
-### Get a Microsoft API Key for Free (no, I had already sold out by using GitHub...)
+#### Get a Microsoft API Key for Free (no, I had already sold out by using GitHub...)
 Sign up [here](https://azure.microsoft.com/en-gb/products/cognitive-services/computer-vision/).
 
-### Add your API key in the file
-In renamer.jl, add your API Key and endpoint.
+#### Add your API key in the file
+In `renamer.jl`, add your API Key and endpoint.
 
-### Run script
+#### Run script
 ```
 julia renamer.jl path_to_images_dir
 ```
@@ -19,8 +19,8 @@ julia renamer.jl path_to_images_dir
 
 ## Uses
 
-### Direct use
+#### Direct use
 This script can be used to conveniently organise large sets of images. For personal use only.
 
-### Out-of-scope use
+#### Out-of-scope use
 This is not designed for captioning images for supervised machine learning or for any sensitive files.
